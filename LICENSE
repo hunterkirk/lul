@@ -1,16 +1,19 @@
 Limited Use License (LUL) v1.0
+
 1. Grant of License
 
 The software provided under this license (the "Software") may be used, modified, and distributed freely by individuals or organizations whose gross annual revenue does not exceed $250,000 USD. This grant is intended for hobbyist, personal, and educational use.
+
 2. Commercial Use
 
 Organizations with gross annual revenue exceeding $250,000 USD may not use the Software without purchasing a separate commercial license. Contact [Your Contact Info] for commercial licensing terms.
+
 3. Prohibited Uses
 
 The Software may not be:
 
     Used for training large language models (LLMs) or any artificial intelligence systems.
-    Stored, indexed, or vectorized as retrievable data for AI-assisted tasks, machine learning, or any similar data-processing systems.
+    Stored, indexed, or vectorized as retrievable data for AI-assisted tasks, machine learning, or any similar data-processing systems without the     explicit permission of the author or authors.
 
 4. Restrictions
 

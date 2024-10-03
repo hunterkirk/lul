@@ -6,14 +6,14 @@ The software provided under this license (the "Software") may be used, modified,
 
 2. Commercial Use
 
-Organizations with gross annual revenue exceeding $250,000 USD may not use the Software without purchasing a separate commercial license. Contact [Your Contact Info] for commercial licensing terms.
+Organizations with gross annual revenue exceeding $250,000 USD may not use the Software without purchasing a separate commercial license. Contact the repository owner for commercial licensing terms.
 
 3. Prohibited Uses
 
 The Software may not be:
 
     Used for training large language models (LLMs) or any artificial intelligence systems.
-    Stored, indexed, or vectorized as retrievable data for AI-assisted tasks, machine learning, or any similar data-processing systems without the     explicit permission of the author or authors.
+    Stored, indexed, or vectorized as retrievable data for AI-assisted tasks, machine learning, or any similar data-processing systems without the explicit permission of the author or authors.
 
 4. Restrictions
 

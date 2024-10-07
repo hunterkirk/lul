@@ -1,4 +1,4 @@
-Summary of the Limited Use License (LUL) v1.0:
+Summary of the Limited Use License (LUL) v1.1:
 
    * Free Use for Hobbyists and Students: Individuals or organizations with annual revenue under $250,000 can use, modify, and distribute the software freely.
 
